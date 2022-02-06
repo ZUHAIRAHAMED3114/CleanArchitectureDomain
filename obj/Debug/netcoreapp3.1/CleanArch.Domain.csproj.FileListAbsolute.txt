@@ -1,0 +1,10 @@
+C:\Users\shaik zuhair ahamed\OneDrive\Desktop\simpleProgrammer\CleanArcitecture\ClassLibrary1\bin\Debug\netcoreapp3.1\CleanArch.Domain.deps.json
+C:\Users\shaik zuhair ahamed\OneDrive\Desktop\simpleProgrammer\CleanArcitecture\ClassLibrary1\bin\Debug\netcoreapp3.1\CleanArch.Domain.dll
+C:\Users\shaik zuhair ahamed\OneDrive\Desktop\simpleProgrammer\CleanArcitecture\ClassLibrary1\bin\Debug\netcoreapp3.1\CleanArch.Domain.pdb
+C:\Users\shaik zuhair ahamed\OneDrive\Desktop\simpleProgrammer\CleanArcitecture\ClassLibrary1\obj\Debug\netcoreapp3.1\CleanArch.Domain.csproj.AssemblyReference.cache
+C:\Users\shaik zuhair ahamed\OneDrive\Desktop\simpleProgrammer\CleanArcitecture\ClassLibrary1\obj\Debug\netcoreapp3.1\CleanArch.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shaik zuhair ahamed\OneDrive\Desktop\simpleProgrammer\CleanArcitecture\ClassLibrary1\obj\Debug\netcoreapp3.1\CleanArch.Domain.AssemblyInfoInputs.cache
+C:\Users\shaik zuhair ahamed\OneDrive\Desktop\simpleProgrammer\CleanArcitecture\ClassLibrary1\obj\Debug\netcoreapp3.1\CleanArch.Domain.AssemblyInfo.cs
+C:\Users\shaik zuhair ahamed\OneDrive\Desktop\simpleProgrammer\CleanArcitecture\ClassLibrary1\obj\Debug\netcoreapp3.1\CleanArch.Domain.csproj.CoreCompileInputs.cache
+C:\Users\shaik zuhair ahamed\OneDrive\Desktop\simpleProgrammer\CleanArcitecture\ClassLibrary1\obj\Debug\netcoreapp3.1\CleanArch.Domain.dll
+C:\Users\shaik zuhair ahamed\OneDrive\Desktop\simpleProgrammer\CleanArcitecture\ClassLibrary1\obj\Debug\netcoreapp3.1\CleanArch.Domain.pdb
